@@ -26,4 +26,7 @@ https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide
 
 Download Center
 https://www.dji.com/downloads
+
+Dron DJI Tello y Python - Movimientos básicos (Parte 2)
+https://www.youtube.com/watch?v=-qe7D4duItA
 ```
