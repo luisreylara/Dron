@@ -68,5 +68,7 @@ https://www.youtube.com/watch?v=9dM-SkmEbN4
 
 Tello EDU Drone Swarming Tutorial with Packet Sender and Python
 https://www.youtube.com/watch?v=cIsddY4SKgA
+https://github.com/dbaldwin/droneblocks-telloedu-python
+
 
 ```
