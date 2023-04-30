@@ -66,4 +66,7 @@ https://www.youtube.com/watch?v=SsUTkRSbWg8
 Tello Programming and Application - Lessons 10. 3D Scanning Drones
 https://www.youtube.com/watch?v=9dM-SkmEbN4
 
+Tello EDU Drone Swarming Tutorial with Packet Sender and Python
+https://www.youtube.com/watch?v=cIsddY4SKgA
+
 ```
