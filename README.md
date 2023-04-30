@@ -29,4 +29,16 @@ https://www.dji.com/downloads
 
 Dron DJI Tello y Python - Movimientos básicos (Parte 2)
 https://www.youtube.com/watch?v=-qe7D4duItA
+
+Dron DJI Tello y Python - Tomar fotos, videos y control desde teclado (Parte 3)
+https://www.youtube.com/watch?v=DwH8KP89_Ao
+
+YOLO: Real-Time Object Detection
+https://pjreddie.com/darknet/yolo/
+https://pjreddie.com/darknet/
+
+
+
+
+
 ```
