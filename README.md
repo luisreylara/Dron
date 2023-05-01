@@ -101,5 +101,7 @@ Sieuwe Elferink
 https://www.youtube.com/watch?v=Vgv0OpEXAWI
 https://github.com/sieuwe1/AR-Drone
 
+parrot mambo and parrot bebop 2
+Parrot AR Drone 2.0
 
 ```
