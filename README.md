@@ -85,6 +85,8 @@ https://www.youtube.com/watch?v=D6bHTehnJaA&list=PLgiealSjeVyxpcdc4L0jL1M9rVctDP
 
 
 
-
+Greg Lamp | Building a (semi) Autonomous Drone with Python
+PyData
+https://www.youtube.com/watch?v=0YowSSTi92I
 
 ```
