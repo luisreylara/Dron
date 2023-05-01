@@ -108,5 +108,8 @@ Drone Show Software Webinar | IMPRESIONA A TU AUDIENCIA CON ESPECTÁCULOS DE DRO
 Drones: Webinarios y tutoriales | SPH Enginee
 https://www.youtube.com/watch?v=-ESUJ6fyXPY
 
+5 mini drones programables que puedes conseguir en Amazon
+https://projectgo.pro/es/drone-programable/
+
 
 ```
