@@ -73,4 +73,18 @@ https://github.com/dbaldwin/droneblocks-telloedu-python
 STEAM Education
 Let Creativity Fly
 https://www.dji.com/products/steam
+
+Dronekit Python Installation
+The Drone Dojo
+https://www.youtube.com/watch?v=tyfs1ySbENo
+Connect a Python Script to a Drone (part 1)
+Connect Python Script to Simulated Drone (part 2)
+
+How to Build a Drone | A Complete Course (2020)
+https://www.youtube.com/watch?v=D6bHTehnJaA&list=PLgiealSjeVyxpcdc4L0jL1M9rVctDPWip&index=1&t=189s
+
+
+
+
+
 ```
