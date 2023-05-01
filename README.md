@@ -95,4 +95,11 @@ CircuitDrone
 HaCiEnDo un CuAdRaDo #4 [STEM 2019] PROGRAMA un DRONE con Python / Pyparrot CODING 2019
 https://www.youtube.com/watch?v=HpXkoQHgW8U
 
+
+How I made a AR Drone Fly itself using Python, OpenCV and PS-Drone with TAG image detection
+Sieuwe Elferink
+https://www.youtube.com/watch?v=Vgv0OpEXAWI
+https://github.com/sieuwe1/AR-Drone
+
+
 ```
