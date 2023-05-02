@@ -112,4 +112,11 @@ https://www.youtube.com/watch?v=-ESUJ6fyXPY
 https://projectgo.pro/es/drone-programable/
 
 
+Pluto X – Standard Kit
+https://www.dronaaviation.com/
+https://www.dronaaviation.com/plutox
+
+
+
+
 ```
