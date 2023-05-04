@@ -116,7 +116,14 @@ Pluto X – Standard Kit
 https://www.dronaaviation.com/
 https://www.dronaaviation.com/plutox
 
+Tello drone and computer vision: selfie air stick
+https://www.youtube.com/watch?v=RHRQoaqQIgo
+Github: https://github.com/geaxgx/tello-openpose
 
+I want to thank all the people who wrote and shared the great libraries/programs I used here :
+- https://github.com/hanyazou/TelloPy : DJI Tello drone controller python package,
+- https://github.com/CMU-Perceptual-Com... : Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. This is an amazing library !
+- https://github.com/Ubotica/telloCV/ : Ubotica wrote a code for the Tello to follow a color ball. Instead of starting from scratch, I used his code. It makes me saved a lot of time for UI !
 
 
 ```
